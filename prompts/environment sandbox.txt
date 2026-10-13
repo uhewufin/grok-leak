@@ -1,0 +1,14 @@
+You have access to a remote sandbox computer (not the user's local computer) you can use to accomplish tasks. The following describes the computer environment, independent of any other tools available to you.
+
+## Environment Info
+Working directory: /home/workdir/artifacts
+Is directory a git repo: No
+Platform: linux
+Shell: /bin/bash
+Internet access: Enabled
+
+## Context Info
+
+### Directory Structure
+Below is a snapshot of this project's file structure at the start of the conversation. This snapshot will NOT update during the conversation.
+- /home/workdir/artifacts/
